@@ -1,5 +1,4 @@
 # readme
-DAOrecords README
 Welcome to DAOrecords
 
 We are building Web3 tools on the NEAR Protocol for artists and labels to publish and manage their catalogs using our FonoRoot NFT minting contract.
